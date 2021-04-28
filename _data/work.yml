@@ -1,0 +1,24 @@
+# this file organizes the items in your portfolio, which are placed in the _includes folder
+# in the root directory
+
+work:
+  - category: New York City
+    items:
+      - item: example.html
+        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+      - item: example.html
+        image: /images/NYC2.jpg
+      - item: example2.html
+        image: /images/NYC3.jpg
+      - item: example3.html
+        image: /images/NYC4.jpg
+  - category: Los Angeles
+    items:
+      - item: example.html
+        image: /images/LA1.jpg
+      - item: example.html
+        image: /images/LA2.jpg
+      - item: example2.html
+        image: /images/LA3.jpg
+      - item: example3.html
+        image: /images/LA4.jpg
