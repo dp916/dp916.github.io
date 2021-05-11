@@ -22,7 +22,7 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: [Google](www.google.com)
+about_button: [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824)
 
 # the link
 about_button_label: metadata # the label on the button
