@@ -25,7 +25,12 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 about_button: /assets/ico/favicon.ico
 
 # the link
-about_button_label: metadata # the label on the button
+about_button_label: projects # the label on the button
+
+about_button2: /images/space.jpg
+
+about_button2_label: resume
+
 
 # optional portfolio section ------------------------------------------
 
