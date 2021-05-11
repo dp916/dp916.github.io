@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: danny pham
 banner_subtitle: sacramento, california
-background_image: /images/background.jpeg
+background_image: /images/space.jpg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain
