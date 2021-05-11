@@ -12,14 +12,3 @@ interests:
         image: /images/cali3.jpg
       - item: cali4.html
         image: /images/cali4.jpg
-        
-  - category: Computer Science
-    items:
-      - item: cs1.html
-        image: /images/cs1.jpg
-      - item: cs2.html
-        image: /images/cs2.jpg
-      - item: cs3.html
-        image: /images/cs3.jpg
-      - item: cs4.html
-        image: /images/cs4.jpg
