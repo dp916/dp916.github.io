@@ -22,8 +22,7 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: [CompTIA Security Analytics Professional â CSAP.pdf](https://github.com/dp916/dp916.github.io/files/6460020/CompTIA.Security.Analytics.Professional.a.CSAP.pdf)
-
+about_button: [Google](www.google.com)
 
 # the link
 about_button_label: metadata # the label on the button
