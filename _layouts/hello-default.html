@@ -57,16 +57,9 @@
     <!-- HEADER -->		
     <header id="header">
       <h1 id="logo" style="text-transform:lowercase">
-        <a href="/">hello</a></h1>
+        <a href="/">home</a></h1>
       <nav id="nav">
         <ul>
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
-          {% if page.portfolio %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio }}">{{ page.portfolio }}</a></li>
-          {% endif %}
-          {% if page.cta %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.cta }}"> {{ page.cta }} </a></li>
-          {% endif %}
         </ul>
       </nav>
     </header>
@@ -191,8 +184,6 @@
 
     <ul class="copyright">
         <li>this website is maintained by {{ site.author}}</li>
-        <li>design: <a href="https://saragong.github.io/hello/"><strong>hello</strong></a> for github pages</li>
-        <li>adapted from <a href="https://html5up.net/twenty"><strong>Twenty</strong></a> by HTML5 Up</li>
     </ul>
 
 </footer>
