@@ -22,7 +22,7 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: ![Screen Shot 2021-05-07 at 3 56 20 AM](https://user-images.githubusercontent.com/47507364/117806066-a86e0180-b20e-11eb-9f3b-a31a1fbdd579.png)
+about_button: ![Screen Shot 2021-05-07 at 3 56 20 AM](https://user-images.githubusercontent.com/47507364/117808566-e587c300-b211-11eb-9b32-76396ab19873.png)
  # the link
 about_button_label: metadata # the label on the button
 
@@ -30,8 +30,8 @@ about_button_label: metadata # the label on the button
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: interests # the heading for your portfolio and title of your YAML file
+portfolio_description: you only live once # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -39,7 +39,7 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:dnnyphm@protonmail.com # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
@@ -47,4 +47,4 @@ cta_button_label: contact # the label on the button
 
 ### b.s. computer science | minor philosophy
 
-download my free **iOS** app [Learn Cybersecurity](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824)
+download my **free** iOS app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824)
