@@ -12,7 +12,7 @@ background_image: /images/space.jpg
 page_url: /hello # only include this variable if you aren't building the page to your primary domain
 
 # favicon
-favicon: /assets/ico/favicon.ico
+favicon: /images/space.jpg
 
 # social media
 twitter_username:  # # your twitter handle
@@ -22,15 +22,10 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: /assets/ico/favicon.ico
+about_button: /images/space.jpg
 
 # the link
-about_button_label: projects # the label on the button
-
-about_button2: /images/space.jpg
-
-about_button2_label: resume
-
+about_button_label: resume # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -54,3 +49,5 @@ cta_button_label: email # the label on the button
 ### b.s. computer science | minor philosophy
 
 download my **free** iOS app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824)
+
+view github [Projects](https://github.com/dp916)
