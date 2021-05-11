@@ -22,7 +22,7 @@ linkedin:  # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: ![Screen Shot 2021-05-07 at 3 56 20 AM](https://user-images.githubusercontent.com/47507364/117808566-e587c300-b211-11eb-9b32-76396ab19873.png)
+about_button: [CompTIA Security Analytics Professional â CSAP.pdf](https://github.com/dp916/dp916.github.io/files/6458963/CompTIA.Security.Analytics.Professional.a.CSAP.pdf)
  # the link
 about_button_label: metadata # the label on the button
 
@@ -31,7 +31,7 @@ about_button_label: metadata # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: interests # the heading for your portfolio and title of your YAML file
-portfolio_description: you only live once # a description to be desplayed below the heading and above the content
+portfolio_description: # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
