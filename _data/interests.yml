@@ -13,14 +13,13 @@ interests:
       - item: cali4.html
         image: /images/cali4.jpg
 
-
   - category: California
     items:
-      - item: 
-        image: # optionally, include the file path for an image for each item
-      - item: 
-        image: 
-      - item: 
-        image:
-      - item:
-        image:
+      - item: cali1.html
+        image: /images/cali1.jpg # optionally, include the file path for an image for each item
+      - item: cali2.html
+        image: /images/cali2.jpeg
+      - item: cali3.html
+        image: /images/cali3.jpg
+      - item: cali4.html
+        image: /images/cali4.jpg
