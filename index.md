@@ -48,8 +48,7 @@ cta_button_label: email # the label on the button
 
 ### b.s. computer science | minor philosophy
 
-### download my free iOS app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone)
-### view app [Statistics](https://github.com/dp916/Learn-Cybersecurity)
-
+download my free iOS app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone)
+view app [Statistics](https://github.com/dp916/Learn-Cybersecurity)
 
 view github [Projects](https://github.com/dp916?tab=repositories)
