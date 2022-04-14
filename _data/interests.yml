@@ -2,7 +2,7 @@
 # in the root directory
 
 interests:
-  - category: California
+  - category: Love
     items:
       - item: cali1.html
         image: /images/cali1.jpg # optionally, include the file path for an image for each item
