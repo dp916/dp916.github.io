@@ -275,7 +275,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.icon.circle.fa-twitter {
 				background: #70aecd;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-twitter:hover {
@@ -284,7 +284,7 @@ custom styles adapted from Twenty by HTML5 Up
 			
 			.icon.circle.fa-linkedin-square {
 				background: #0077B5;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-linkedin-square:hover {
@@ -293,7 +293,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.icon.circle.fa-facebook {
 				background: #7490c3;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-facebook:hover {
@@ -302,7 +302,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-google-plus:hover {
@@ -311,7 +311,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.icon.circle.fa-github {
 				background: #dcad8b;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-github:hover {
@@ -320,7 +320,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
-				color: black;
+				color: white;
 			}
 
 				.icon.circle.fa-dribbble:hover {
@@ -495,12 +495,12 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 		.wrapper.style3 {
-			background: black;
+			background: white;
 			color: inherit;
 		}
 
 		.wrapper.style4 {
-			background: black;
+			background: white;
 			color: inherit;
 			padding: 4em;
 		}
@@ -513,7 +513,7 @@ custom styles adapted from Twenty by HTML5 Up
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: black;
+		background: white;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
@@ -613,7 +613,7 @@ custom styles adapted from Twenty by HTML5 Up
 			animation: none;
             background: transparent;
             box-shadow: none;
-			color: black;
+			color: white;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
@@ -673,7 +673,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.dropotron > li:hover > a {
 				background: rgb(79, 166, 209);
-				color: black;
+				color: white;
 			}
 
 			.dropotron > li:first-child {
@@ -693,7 +693,7 @@ custom styles adapted from Twenty by HTML5 Up
 		background-position: bottom center, top center;
 		background-repeat: no-repeat;
 		background-size: 25em, cover;
-		color: black;
+		color: white;
 		cursor: default;
 		padding: 8em 0;
 		text-align: center;
@@ -719,7 +719,7 @@ custom styles adapted from Twenty by HTML5 Up
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
 			background: rgba(52, 27, 43, 0.5);
-			color: black;
+			color: white;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
@@ -797,7 +797,7 @@ custom styles adapted from Twenty by HTML5 Up
 		background-position: top center, bottom center;
 		background-repeat: no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: black;
+		color: white;
 		padding: 5em 0em;
 		text-align: center;
 	}
@@ -858,7 +858,7 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 		#topButton .toggle:before {
-			color: black;
+			color: white;
 			content: '\f039';
 			font-size: 0.75em;
 			height: 30px;
@@ -902,7 +902,7 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 		#sideButton .toggle:before {
-			color: black;
+			color: white;
 			content: '\f039';
 			font-size: 1em;
 			height: 40px;
@@ -929,7 +929,7 @@ custom styles adapted from Twenty by HTML5 Up
 	#topPanel,
 	#sidePanel {
 		background: #1c2021;
-		color: black;
+		color: white;
 		font-size: 0.8em;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
