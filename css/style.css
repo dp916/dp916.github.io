@@ -513,7 +513,7 @@ custom styles adapted from Twenty by HTML5 Up
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: white;
+		background: black;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
 		color: inherit;
 		cursor: default;
@@ -613,7 +613,7 @@ custom styles adapted from Twenty by HTML5 Up
 			animation: none;
             background: transparent;
             box-shadow: none;
-			color: white;
+			color: black;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
@@ -630,7 +630,7 @@ custom styles adapted from Twenty by HTML5 Up
 /* Dropotron */
 
 	.dropotron {
-		background: #202222;
+		background: #fff;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
 		line-height: 2.25em;
 		min-width: 13em;
@@ -646,7 +646,7 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 			.dropotron.level-0:before {
-				border-bottom: solid 0.5em #202222;
+				border-bottom: solid 0.5em #fff;
 				border-left: solid 0.5em transparent;
 				border-right: solid 0.5em transparent;
 				content: '';
