@@ -630,7 +630,7 @@ custom styles adapted from Twenty by HTML5 Up
 /* Dropotron */
 
 	.dropotron {
-		background: #fff;
+		background: #202222;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
 		line-height: 2.25em;
 		min-width: 13em;
@@ -646,7 +646,7 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 			.dropotron.level-0:before {
-				border-bottom: solid 0.5em #fff;
+				border-bottom: solid 0.5em #202222;
 				border-left: solid 0.5em transparent;
 				border-right: solid 0.5em transparent;
 				content: '';
@@ -809,8 +809,8 @@ custom styles adapted from Twenty by HTML5 Up
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
-		color: #7c8081;
+		background: #202222;
+		color: #F3F6FA;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
