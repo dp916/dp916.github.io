@@ -495,12 +495,12 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 		.wrapper.style3 {
-			background: white;
+			background: black;
 			color: inherit;
 		}
 
 		.wrapper.style4 {
-			background: white;
+			background: black;
 			color: inherit;
 			padding: 4em;
 		}
@@ -673,7 +673,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 			.dropotron > li:hover > a {
 				background: rgb(79, 166, 209);
-				color: white;
+				color: black;
 			}
 
 			.dropotron > li:first-child {
@@ -693,7 +693,7 @@ custom styles adapted from Twenty by HTML5 Up
 		background-position: bottom center, top center;
 		background-repeat: no-repeat;
 		background-size: 25em, cover;
-		color: white;
+		color: black;
 		cursor: default;
 		padding: 8em 0;
 		text-align: center;
@@ -719,7 +719,7 @@ custom styles adapted from Twenty by HTML5 Up
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
 			background: rgba(52, 27, 43, 0.2);
-			color: white;
+			color: black;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
@@ -797,7 +797,7 @@ custom styles adapted from Twenty by HTML5 Up
 		background-position: top center, bottom center;
 		background-repeat: no-repeat;
 		background-size: 25em, 25em, auto, cover;
-		color: white;
+		color: black;
 		padding: 5em 0em;
 		text-align: center;
 	}
