@@ -44,12 +44,6 @@ cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### inderkum high '12
-
-### american river '15
-
-### sacramento state '19  
-
 ### b.s. computer science | minor philosophy
 
 download my app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone), view app [Data](https://github.com/dp916/Learn-Cybersecurity)
