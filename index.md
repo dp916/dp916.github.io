@@ -37,15 +37,17 @@ portfolio_description: # a description to be desplayed below the heading and abo
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta: contact # the heading for your CTA section
+cta_description:  # a description to be desplayed below the heading and above the content
 cta_button: mailto:dnnyphm@outlook.com # a link to an external website or to media
 cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
+### "on a journey to fulfill my personal legend"
+
 ### b.s. computer science | minor philosophy
 
-download my app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824#?platform=iphone), view app [Data](https://github.com/dp916/Learn-Cybersecurity)
+download my app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824?platform=iphone), view app [Data](https://github.com/dp916/Learn-Cybersecurity)
 
 view github [Projects](https://github.com/dp916?tab=repositories)
