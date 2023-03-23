@@ -46,7 +46,7 @@ cta_button_label: email # the label on the button
 [//]: # (write a bit about yourself here)
 ### "on a journey to fulfill my personal legend"
 
-### b.s. computer science | minor philosophy
+### b.s. computer science | sacramento state
 
 download my app via [App Store](https://apps.apple.com/us/app/learn-cybersecurity/id1556509824?platform=iphone), view app [Data](https://github.com/dp916/Learn-Cybersecurity)
 
