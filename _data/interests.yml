@@ -5,7 +5,7 @@ interests:
   - category: Love
     items:
       - item: cali1.html
-        image: /images/cali1.jpg # optionally, include the file path for an image for each item
+        image: /images/cali1.jpeg # optionally, include the file path for an image for each item
       - item: cali2.html
         image: /images/cali2.jpeg
       - item: cali3.html
