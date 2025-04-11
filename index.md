@@ -44,7 +44,7 @@ cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### "on a journey to fulfill my personal legend"
+### "its about the journey, not destination"
 
 ### b.s. computer science | sacramento state
 
